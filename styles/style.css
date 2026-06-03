@@ -52,10 +52,6 @@
   list-style: none;
 }
 
-.header__links-list {
-  gap: 30px;
-}
-
 .header__link-circle {
   padding: 5px;
 }
