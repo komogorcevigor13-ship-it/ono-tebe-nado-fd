@@ -203,6 +203,7 @@
   gap: 24px;
   list-style: none;
   margin-top: 15px;
+  margin-bottom: 30px;
 }
 
 .card-link {
@@ -213,6 +214,7 @@
 
 .card {
   position: relative;
+  height: 100%;
   width: 334px;
   overflow: hidden;
   padding: 50px 40px;
@@ -244,7 +246,7 @@
   line-height: 25px;
   text-decoration: 1px underline;
   text-underline-offset: 4px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .card__text {
@@ -253,7 +255,6 @@
   color: white;
   font-size: 20px;
   font-weight: 400;
-  word-spacing: 2px;
 }
 
 .lots__look-more-link {
